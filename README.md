@@ -17,3 +17,11 @@ The <b>11th goal</b> focuses on safe transport systems. Since the model will sto
 Finally, the <b>12th goal</b> focuses on responsible production. As said eariler, the model only uses electricity (obtained from renewable sources). This model will be very useful in supporting developing countries in technological development.
 <h1>Problems we faced (and solved)</h1>
 On the first day, we didn't have all the parts to make both of the robots. However, it was easy to build a base with what we had. Our teammate Aviral made a good model of the robot at night. The next day, when Aviral was on his laptop using the  
+<h1>Inspiration</h1>
+<h1>What it does</h1>
+<h1>How we built it</h1>
+<h1>Challenges we ran into</h1>
+<h1>Accomplishments that we're proud of</h1>
+<h1>What we learned</h1>
+<h1>What's next for Nunchunk Mutants</h1>
+<h1>Built With</h1>
