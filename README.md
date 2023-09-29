@@ -15,4 +15,4 @@ The <b>9th goal</b> focuses on building infrastructure and sustainable industria
 The <b>11th goal</b> focuses on safe transport systems. Since the model will stop when it detects anything in the front, this model will prove to be a very safe form of transportation. <br>
 Finally, the <b>12th goal</b> focuses on responsible production. As said eariler, the model only uses electricity (obtained from renewable sources). This model will be very useful in supporting developing countries in technological development.
 <h1>Problems we faced</h1>
-On the first day 
+(IMO I should finish this on the last day) On the first day, we didn't have all the parts to make both of the robots. However, it was easy to build a base with what we had. Our teammate Aviral made a good model of the robot at night. The next day, when Aviral was on his laptop using the  
