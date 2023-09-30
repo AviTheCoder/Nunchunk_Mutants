@@ -1,4 +1,4 @@
-<h1><i><b>Nunchunk_Mutants</b></i></h1>
+<h1><i><b>Nunchuck_Mutants</b></i></h1>
 For Giis Progressio 2k23 Open Senior Category (9-12th) <br>
 <h1>What is our project about?</h1>
 Our submission for the <b>2k23 Progressio Open Senior Category (9-12)</b>  features a robot running on the Arduino chip. The robot uses the HC-SR04 ultrasonic sensors to stay on a specific path. The unique part of this project is that the robot will stop if it detects that another obstacle is in front of it.<br>
