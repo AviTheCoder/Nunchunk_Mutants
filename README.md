@@ -39,5 +39,8 @@ We are proud of successfully creating not one, but two robots that are able to m
 After spending three days working together as a team of 4 on the project, we have been able to better overcome our challenges and work together to complete everything and reach our goals effectively and cohesively. 
 
 <h1>What's next for Nunchunk Mutants</h1>
-We envision a new series of self-driving vehicles that significantly increase safety and mobility. The aim is to reduce the number of road accidents, harm and injuries for all vehicle types, and make transportation safer for all.
+We envision a new series of self-driving vehicles that significantly increase safety and mobility. The aim is to reduce the number of road accidents, harm and injuries for all vehicle types, and make transportation safer for all.<br>
+
+![RobotComp](https://github.com/AviTheCoder/Nunchunk_Mutants/assets/119661881/19754dc9-7665-4d84-b922-564991c252bc)
+
 
