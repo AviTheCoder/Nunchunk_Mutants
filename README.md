@@ -17,7 +17,7 @@ The <b>11th goal</b> focuses on safe transport systems. Since the model will sto
 Finally, the <b>12th goal</b> focuses on responsible production. As said eariler, the model only uses electricity (obtained from renewable sources). This model will be very useful in supporting developing countries in technological development.  
 <h1>Inspiration</h1>
 <h1>What it does</h1>
-The two robots will always move forwards in its specific path. It will never stray off its path
+The two robots will always move forwards in its specific path. It will never stray off its path, even if there is a intersection. The robot represents an electric car that 
 <h1>How we built it</h1>
 <h1>Challenges we ran into</h1>
 On the first day, we didn't have all the parts to make both of the robots. However, it was easy to build a base with what we had. Our teammate Aviral made a good model of the robot at night. The next day, when Aviral was on his laptop, it had suddenly froze, meaning we wouldn't be able to program the robot since only he had a USB port. When we were testing the robot, it would always try to stay on track but it couldn't. It was always too fast or slow or the sensor started late. Turns out we hadn't connected the chip to the correct battery, and it would always use too little power. After re-wiring the circuits, the robot worked properly and would always stay on its track.
