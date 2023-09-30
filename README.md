@@ -4,7 +4,9 @@ For Giis Progressio 2k23 Open Senior Category (9-12th) <br>
 You have to install the Arduino IDE and the NewPing library for this robot to work.
 <h1>What is our project about?</h1>
 Our submission for the <b>2k23 Progressio Open Senior Category (9-12)</b>  features a robot running on the Arduino chip. The robot uses the HC-SR04 ultrasonic sensors to stay on a specific path. The unique part of this project is that the robot will stop if it detects that another obstacle is in front of it.<br>
-We envision a new series of vehicles that increase safety and mobility, as well as contribute to achieving the UN sustainable development goals. Through our model of self-driving vehicles, we want to present an effective solution to working towards reducing the number of road accidents that happen everyday, worldwide.
+We envision a new series of vehicles that increase safety and mobility, as well as contribute to achieving the UN sustainable development goals. Through our model of self-driving vehicles, we want to present an effective solution to working towards reducing the number of road accidents that happen everyday, worldwide. <br>
+https://youtu.be/XbkVdmh4EjI <br>
+https://youtu.be/xUdFiBupJ7Q
 <h1>UNSDG's</h1>
 The theme of the competition is the <b>United Nations Sustainable Development Goals</b>. <br>
 Our Project connects with 3 of the UNSDGs<br>
