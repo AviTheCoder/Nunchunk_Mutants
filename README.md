@@ -37,3 +37,4 @@ After spending three days working together as a team of 4 on the project, we hav
 We envision a new series of self-driving vehicles that significantly increase safety and mobility. The aim is to reduce the number of road accidents, harm and injuries for all vehicle types, and make transportation safer for all.
 
 <h1>Built with...</h1>
+We made the base of the robot using metal punched bars. The robot uses an 9V battery to power the Arudino microcontrollers and a 7.4V battery to power the motors. It uses HC-SR04 and infrared sensors to prevent collisions and stay on the path respectively.
