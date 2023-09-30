@@ -32,6 +32,9 @@ We made the base of the robot using metal punched bars. The robot uses an 9V bat
 <h1>Challenges we ran into</h1>
 We faced many challenges throughout the duration of the competition. At first, we did not have enough parts to make both robots. The laptop on which we had code on also froze, thus restricting us from programming the robot, and delaying the process. Once these were sorted, we were not able to keep the robot on track, following the lines correctly. The motors were always too fast or slow or the sensor started late. Turns out we hadn't connected the motor driver to the correct battery, and it would not be able to get enough power. After rewiring the circuits, the robot worked properly and would always stay on its track. On the last day, when we ran our robots individually, they started working perfectly and stopped running off track, but just as we ran them together our robots refused to move or started running off track again. We could only have one robot to properly work, as the other robot wouldn't work. However we have managed to sort out all our problems to ensure one smooth working model.
 
+<h1>Things we could have improved</h1>
+We could have used more IR sensors to make a more accurate robot model and reducing the chance of it leaving the path, and for it to move potentially faster. 
+
 <h1>Accomplishments that we're proud of</h1>
 We are proud of successfully creating not one, but two robots that are able to move according to the line track and sense other obstacles in time to stop and avoid harm. We were also able to overcome the challenges we faced by identifying our mistakes and fixing them in order to ensure a smooth working model.
 
@@ -39,8 +42,9 @@ We are proud of successfully creating not one, but two robots that are able to m
 After spending three days working together as a team of 4 on the project, we have been able to better overcome our challenges and work together to complete everything and reach our goals effectively and cohesively. 
 
 <h1>What's next for Nunchunk Mutants</h1>
-We envision a new series of self-driving vehicles that significantly increase safety and mobility. The aim is to reduce the number of road accidents, harm and injuries for all vehicle types, and make transportation safer for all.<br>
-<h1></h1>
+We envision a new series of self-driving vehicles that significantly increase safety and mobility. The aim is to reduce the number of road accidents, harm and injuries for all vehicle types, and make transportation safer for all. <br>
+<p>
+  
 ![RobotComp](https://github.com/AviTheCoder/Nunchunk_Mutants/assets/119661881/19754dc9-7665-4d84-b922-564991c252bc)
-
+</p>
 
