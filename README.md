@@ -22,7 +22,7 @@ Finally, the <b>12th goal</b> focuses on responsible production. As said eariler
 Everyday the number of road accidents happening worldwide increases. This is a huge problem and we need a solution to increase our safety and wellbeing. Globally each year, 1.35 million people are killed on roadways around the world, and 3700 people are killed per day. Several more are harmed or injured in road accidents, including young children and the elderly. In Singapore itself, there were 108 fatalities in 2022, and this number continues to increase in 2023. This is a crucial and life-threatening issue and needs to be addressed.
 
 <h1>What it does</h1>
-The robot will always move forwards in its specific path. It will never stray off its path, even if there is a intersection. The robot represents an electric car that uses sensors to detect any obstacles in its path and stops accordingly. 
+The robot will always move forwards in its specific path. It will never stray off its path, even if there is a intersection. The robot represents an electric car that uses sensors to detect any obstacles in its path and stops accordingly. The robot has an OLED screen to show the robot's functionality.
 
 <h1>How we built it</h1>
 
@@ -39,4 +39,4 @@ After spending three days working together as a team of 4 on the project, we hav
 We envision a new series of self-driving vehicles that significantly increase safety and mobility. The aim is to reduce the number of road accidents, harm and injuries for all vehicle types, and make transportation safer for all.
 
 <h1>Built with...</h1>
-We made the base of the robot using metal punched bars. The robot uses an 9V battery to power the Arudino microcontrollers and a 7.4V battery to power the motors. It uses HC-SR04 and infrared sensors to prevent collisions and stay on the path respectively.
+We made the base of the robot using metal punched bars. The robot uses an 9V battery to power the Arudino microcontrollers and a 7.4V battery to power the motors. It uses HC-SR04 and infrared sensors to prevent collisions and stay on the path respectively. It uses an OLED to display the robot's function.
