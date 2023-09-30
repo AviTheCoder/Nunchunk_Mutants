@@ -25,6 +25,7 @@ Everyday the number of road accidents happening worldwide increases. This is a h
 The robot will always move forwards in its specific path. It will never stray off its path, even if there is a intersection. The robot represents an electric car that uses sensors to detect any obstacles in its path and stops accordingly. The robot has an OLED screen to show the robot's functionality.
 
 <h1>How we built it</h1>
+We made the base of the robot using metal punched bars. The robot uses an 9V battery to power the Arudino microcontrollers and a 7.4V battery to power the motors. It uses HC-SR04 and infrared sensors to prevent collisions and stay on the path respectively. It uses an OLED to display the robot's function.
 
 <h1>Challenges we ran into</h1>
 We faced many challenges throughout the duration of the competition. At first, we did not have enough parts to make both robots. The laptop on which we had code on also froze, thus restricting us from programming the robot, and delaying the process. Once these were sorted, we were not able to keep the robot on track, following the lines correctly. The sensor was always too fast or slow or the sensor started late. Turns out we hadn't connected the chip to the correct battery, and it would always use too little power. After rewiring the circuits, the robot worked properly and would always stay on its track. On the last day, when we ran our robots individually, they started working perfectly and stopped running off track, but just as we ran them together our robots refused to move or started running off track again. However we have managed to sort out all our problems to ensure a smooth working model.
@@ -38,5 +39,3 @@ After spending three days working together as a team of 4 on the project, we hav
 <h1>What's next for Nunchunk Mutants</h1>
 We envision a new series of self-driving vehicles that significantly increase safety and mobility. The aim is to reduce the number of road accidents, harm and injuries for all vehicle types, and make transportation safer for all.
 
-<h1>Built with...</h1>
-We made the base of the robot using metal punched bars. The robot uses an 9V battery to power the Arudino microcontrollers and a 7.4V battery to power the motors. It uses HC-SR04 and infrared sensors to prevent collisions and stay on the path respectively. It uses an OLED to display the robot's function.
